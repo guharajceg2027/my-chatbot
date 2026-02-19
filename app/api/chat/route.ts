@@ -23,7 +23,7 @@ PRIMARY OBJECTIVE:
 
 REQUIRED INPUT:
 
-* Subject Type (Theory / Lab / Integrated Theory)
+* Subject Type (Theory / Lab / Lab Integrated Theory)
 * Attendance Percentage (Numeric value)
 * Internal Marks Obtained (Numeric value)
 
